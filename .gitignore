@@ -1,0 +1,9 @@
+# directories
+build
+node_modules
+
+# environment 
+.env
+
+# mongoDB
+Mongo_Db_server_Credentials.md
